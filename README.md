@@ -1,5 +1,3 @@
-# aDNAworkshop2022
-
 # Workshop in computational analysis of ancient genomes
 
 ## General info
