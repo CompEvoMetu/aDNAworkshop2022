@@ -6,7 +6,7 @@
 
 **09:00-09:50**	Prelim.	(*Kıvılcım*) \
 **10:00-10:50**	Data processing	(*Kıvılcım*) \
-**11:00-11:50**	Data processing	(*Kıvılcım*) \
+**11:00-11:50**	Data processing	(*Kıvılcım*) 
 
 **Yemek Arası**
 
@@ -19,7 +19,7 @@
 
 **09:00-09:50**	PCA	(*Yetkin*) \
 **10:00-10:50**	PCA	(*Yetkin*) \
-**11:00-11:50**	f-stat	(*Yetkin*) \
+**11:00-11:50**	f-stat	(*Yetkin*) 
 
 **Yemek Arası**
 
@@ -32,7 +32,7 @@
 
 **09:00-09:50**	Kinship-Read-NsgRelate	(*Şevval/Arda*) \
 **10:00-10:50**	Kinship-Read-NsgRelate	(*Şevval/Arda*) \
-**11:00-11:50**	Admixture	(*Dilek*) \
+**11:00-11:50**	Admixture	(*Dilek*) 
 
 **Yemek Arası**	
 
@@ -45,7 +45,7 @@
 
 **09:00-09:50**	ROH	(*Kanat*) \ 
 **10:00-10:50**	ROH	(*Kanat*) \
-**11:00-11:50**	qpWave / qpAdm	(*Eren/Ezgi*) \
+**11:00-11:50**	qpWave / qpAdm	(*Eren/Ezgi*) 
 
 **Yemek Arası**
 
