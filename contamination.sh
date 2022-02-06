@@ -56,7 +56,9 @@ mtMAPauthentic=`grep "MAP authentic" ${samplename}.contamMixout.txt | cut -d":" 
 mtErrorRate=`grep "error rate" ${samplename}.contamMixout.txt | awk '{print $9}' | sed 's/).//g'`
 
 ### schmutzi
+## hasara dayalı kontaminasyon tahmini
 ${contdeam} --library double --out ${samplename}.conta.bam ${refMT}  ${bam}
+## mitokondriyal alel frekanslarının bir veritabanını kullanma
 ${schmutzi} --ref ${refMT} --out ${samplename}.mtcont.bam ${freqs} ${samplename}.conta.bam
 
 conta=$(cut -f 2 ${samplename}.conta.bam.cont.est)
@@ -67,7 +69,7 @@ mtconta=$(cut -f 2 ${samplename}.mtcont.bam_1_cont.est)
 ${angsd}/angsd -i ${bam} -r X:5000000-154900000 -doCounts 1  -iCounts 1 -minMapQ 30 -minQ 30 -out ${samplename}.xcont
 ${angsd}/misc/contamination -a ${samplename}.xcont.icnts.gz -h ${angsd}/RES/HapMapChrX.gz 2> ${samplename}.xcont001.out
 
-##Fisher's exact test for finding a p-value, and jackknife to get an estimate of contamination 
+##Fisher's exact test ile p değerini bulup, jackknife ile kontaminasyon tahmini
 Rscript ${angsd}/R/contamination.R mapFile=${angsd}/RES/chrX.unique.gz hapFile=${angsd}/RES/HapMapChrX.gz countFile=${samplename}.xcont.icnts.gz minDepth=1 mc.cores=72 maxDepth=100 > ${samplename}.xcont002.out
 
 xcont001=`grep new_llh ${samplename}.xcont001.out | head -n 1 | cut -d ":" -f 4-`
