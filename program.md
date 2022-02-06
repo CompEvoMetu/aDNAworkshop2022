@@ -2,9 +2,9 @@
 
 ------
 
-## 07.02.2022 Pazartesi
-**09:00-09:50**	Prelim.	(*Kıvılcım*)
-**10:00-10:50**	Data processing	(*Kıvılcım*)
+## 07.02.2022 Pazartesi \
+**09:00-09:50**	Prelim.	(*Kıvılcım*)\
+**10:00-10:50**	Data processing	(*Kıvılcım*)\
 **11:00-11:50**	Data processing	(*Kıvılcım*)
 **Yemek Arası**		
 **13:00-13:50**	Contamination Estimation	(*Kıvılcım*)
