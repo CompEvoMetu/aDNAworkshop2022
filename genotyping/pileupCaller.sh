@@ -23,7 +23,7 @@ $samtools mpileup -R -B -q 30 -Q 30 -l ${pos} -f ${ref} $(cat ${bamlist} | xargs
 sampleNames=$(grep -o '[^/]*$' ${bamlist} | cut -d "." -f1 | cut -f1,2 -d "_" | tr '\n' ',' | sed 's/,$//')
 echo $sampleNames
 
-$pileupCaller --randomHaploid --sampleNames ${sampleNames}  -f ${eigen} -e ${bamlist}.out < ${bamlist}.pileup.txt
+$pileupCaller --randomHaploid --sampleNames ${sampleNames}  -f ${eigen} -e ${bamlist}.out. < ${bamlist}.pileup.txt
 
 ##merged with dataset
 cat > parmerge <<EOF
