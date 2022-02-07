@@ -21,5 +21,5 @@ echo "Merge end"
 
 cat $3/$4.collapsed.gz $3/$4.collapsed.truncated.gz $3/$4.pair1.truncated.gz $3/$4.pair2.truncated.gz > $3/$(basename $4 .fastq.gz).all.fastq.gz
 echo "Both files done"
-##rm $3/$4.collapsed.gz $3/$4.collapsed.truncated.gz $3/$4.pair1.truncated.gz $3/$4.pair2.truncated.gz $3/$(basename $4 .fastq.gz).discarded.gz $3/$(basename $4 .fastq.gz).singleton.truncated.gz
+rm $3/$4.collapsed.gz $3/$4.collapsed.truncated.gz $3/$4.pair1.truncated.gz $3/$4.pair2.truncated.gz $3/$(basename $4 .fastq.gz).discarded.gz $3/$(basename $4 .fastq.gz).singleton.truncated.gz
 echo "Remove files done"
