@@ -34,7 +34,7 @@ refbase=$(basename $ref .fa)
 sample="$( cut -d '.' -f 1 <<< "${mergedname}" )"; samplename=${sample##*/}; echo "$samplename"
 
 TMPDIR=${out}/tmp_${samplename}
-
+mkdir ${TMPDIR} -p
 ## seq stats
 ####### Number of sequences
 seq_num=$(zcat ${mergedname} | wc -l)
@@ -96,4 +96,4 @@ flock -x ${filebase}.sequence_stats.txt echo -e "${filebase:0:6},${filebase:0:15
 ----------
 ###running 
 
-sbatch sequence.sh /mnt/NEOGENE3/share/compevo_rawdata/hsa/mergedfastqs/Ash128-b1e5l1p1120_CTCTGCA_L004_ARmerged.190520_ST-E00269_0346_BH2LH5CCX2.all.fastq.gz 1 /mnt/NEOGENE1/home/${username}
+sbatch sequence.sh /mnt/NEOGENE3/share/compevo_rawdata/hsa/mergedfastqs/zoc007_b1e1l1p1_GATATTG-AACGAAG_L002_ARmerged.211116_A00689_0397_AHM2K5DRXY.all.fastq.gz 1 /mnt/NEOGENE1/home/${username}
