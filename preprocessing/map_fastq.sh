@@ -60,8 +60,3 @@ sleep 5s
 flock -x ${alndir}/${filebase}.${refbase}.cons.90perc.bam samtools index ${alndir}/${filebase}.${refbase}.cons.90perc.bam
 echo "90perc index done"
 echo "mapping done"
-
-
-------
-running
-sbatch mapping.sh /mnt/NEOGENE3/share/compevo_rawdata/hsa/mergedfastqs/Ash128-b1e5l1p1120_CTCTGCA_L004_ARmerged.190520_ST-E00269_0346_BH2LH5CCX2.all.fastq.gz /mnt/NEOGENE3/share/ref/genomes/hsa/hs37d5.fa /mnt/NEOGENE1/home/${username} 56
