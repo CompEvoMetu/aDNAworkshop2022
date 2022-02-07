@@ -1,10 +1,10 @@
-### Adaptör ne işe yarar?
+### Adaptör
 
 -Dna fragmentlerini çoğaltmak işleminin gerçekleşeceği katı faza bağlamak \
 -index ile bu fragmentlerin kimliğini oluşturmak 
 
 ```bash
-$AdapterRemoval --file1 $1 --file2 $2 --adapter1 AGATCGGAAGAGCACACGTCTGAACTCCAGTCACNNNNNNNATCTCGTATGCCGTCTTCTGCTTG --adapter2 AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTNNNNNNNGTGTAGATCTCGGTGGTCGCCGTATCATT --qualitybase 33 --gzip --qualitymax 60 --trimns --collapse --minalignmentlength 11 --threads ${Cores} --basename $3/$4 --settings $4.settings
+AdapterRemoval --file1 $1 --file2 $2 --adapter1 AGATCGGAAGAGCACACGTCTGAACTCCAGTCACNNNNNNNATCTCGTATGCCGTCTTCTGCTTG --adapter2 AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTNNNNNNNGTGTAGATCTCGGTGGTCGCCGTATCATT --qualitybase 33 --gzip --qualitymax 60 --trimns --collapse --minalignmentlength 11 --threads ${Cores} --basename $3/$4 --settings $4.settings
 ```
 
 --collapse--> Eşleştirilmiş uç modunda, iki çift çakışırsa, ikisini birleştirerek ve kalite puanlarını yeniden hesaplayarak iki okumayı tek bir okuma şeklinde birleştirir.\
