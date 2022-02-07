@@ -74,3 +74,5 @@ Rscript ${angsd}/R/contamination.R mapFile=${angsd}/RES/chrX.unique.gz hapFile=$
 
 xcont001=`grep new_llh ${samplename}.xcont001.out | head -n 1 | cut -d ":" -f 4-`
 xcont002=`grep "Contamination" ${samplename}.xcont002.out | cut -d " " -f 2-3`
+
+sbatch contamination.sh  /mnt/NEOGENE3/share/compevo_rawdata/hsa/mappedlibraries/cch142-b1e1l1p1_TTGGATC-GCGAGTA_L001_ARmerged.211116_A00689_0397_AHM2K5DRXY.all.hs37d5.cons.90perc.bam
