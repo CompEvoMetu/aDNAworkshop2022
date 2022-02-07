@@ -54,7 +54,7 @@
 
 ## 10.02.2022 Thursday
 
-**09:00-09:50**	ROH	(*Kanat*) \ 
+**09:00-09:50**	ROH	(*Kanat*) \
 **10:00-10:50**	ROH	(*Kanat*) \
 **11:00-11:50**	qpWave / qpAdm	(*Eren/Ezgi*) 
 
