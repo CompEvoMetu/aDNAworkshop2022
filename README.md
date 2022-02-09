@@ -48,8 +48,8 @@
 **Lunch break**
 
 **13:00-13:50**	Admixture	(*Dilek*) \
-**14:00-14:50** Selection	(*Ekin/Rabia*) \
-**15:00-15.50**	Selection	(*Ekin/Rabia*) 
+**14:00-14:50** Selection	(*Rabia/Melih*) \
+**15:00-15.50**	Selection	(*Rabia/Melih*) 
 
 
 ## 10.02.2022 Thursday
