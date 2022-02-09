@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # qpAdm
 
 ## Getting Started
@@ -73,7 +68,7 @@ EOF
 cat > Catalqpadm.sh <<EOF
 #!/bin/bash -l
 #SBATCH -J qpAdm
-#SBATCH -p macaque2
+#SBATCH -p chimp
 #SBATCH -n 1
 #SBATCH -t 5-00:00:00
 #SBATCH -D $workfold
@@ -108,7 +103,7 @@ EOF
 cat > allvsallqpfstats.sh <<EOF
 #!/bin/bash -l
 #SBATCH -J qpfstats
-#SBATCH -p macaque2
+#SBATCH -p chimp
 #SBATCH -n 1
 #SBATCH -t 5-00:00:00
 #SBATCH -D $workfold
@@ -137,7 +132,7 @@ EOF
 cat > Catalqpfstat.sh <<EOF
 #!/bin/bash -l
 #SBATCH -J qpAdmFstat
-#SBATCH -p macaque2
+#SBATCH -p chimp
 #SBATCH -n 1
 #SBATCH -t 5-00:00:00
 #SBATCH -D $workfold
