@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # qpAdm
 
 ## Getting Started
@@ -20,7 +15,7 @@ qpAdm=/usr/local/sw/AdmixTools-7.0.2/bin/qpAdm
 qpfstats=/usr/local/sw/AdmixTools-7.0.2/bin/qpfstats
 
 #working folder
-workfold=/home/altinisik/workshop/qpadm
+workfold=/PATH/TO/YOUR/FOLDER
 
 ```
 ## Preparing files
@@ -80,7 +75,7 @@ cat > Catalqpadm.sh <<EOF
 #SBATCH -o slurm-%j-%N-%u.out
 #SBATCH -e slurm-%J-%N-%u.err
 export PATH=$PATH:/usr/local/sw/AdmixTools-7.0.2/bin/
-($qpAdm -p workshop.par &> Catal2Way.log &) &
+$qpAdm -p workshop.par > Catal2Way.log
 EOF
 ```
 
@@ -115,7 +110,7 @@ cat > allvsallqpfstats.sh <<EOF
 #SBATCH -o slurm-%j-%N-%u.out
 #SBATCH -e slurm-%J-%N-%u.err
 export PATH=$PATH:/usr/local/sw/AdmixTools-7.0.2/bin/
-($qpfstats -p allvsall.par &> allvsall.log &) &
+$qpfstats -p allvsall.par > allvsall.log 
 EOF
 ```
 PS: It takes long time, so please don't run this step by yourself now. We have the output files in the directory.
@@ -132,7 +127,6 @@ fstatsname: /mnt/NEOGENE1/toTransfer/workshopfiles/qp/results/fstats.txt
 EOF
 ```
 
-
 ```bash
 cat > Catalqpfstat.sh <<EOF
 #!/bin/bash -l
@@ -144,7 +138,7 @@ cat > Catalqpfstat.sh <<EOF
 #SBATCH -o slurm-%j-%N-%u.out
 #SBATCH -e slurm-%J-%N-%u.err
 export PATH=$PATH:/usr/local/sw/AdmixTools-7.0.2/bin/
-($qpAdm -p workshopqpfstat.par &> Catal2Wayqpfstat.log &) &
+$qpAdm -p workshopqpfstat.par > Catal2Wayqpfstat.log
 EOF
 ```
 
