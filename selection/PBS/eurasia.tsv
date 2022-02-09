@@ -1,0 +1,590 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Population elastic ID	Data collections
+HG00315	female	SAME124335	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00327	female	SAME123791	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00334	female	SAME123981	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00339	female	SAME123991	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00341	male	SAME124922	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00346	female	SAME125264	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00353	female	SAME125120	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00358	male	SAME125126	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00360	male	SAME124539	FIN	Finnish,Finnish	EUR	European Ancestry,West Eurasia (SGDP)	FIN,FinnishSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00365	female	SAME124542	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00372	male	SAME124748	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00377	female	SAME124752	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00384	female	SAME123034	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00106	female	SAME123948	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00113	male	SAME125342	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00118	female	SAME125347	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00120	female	SAME122874	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00125	female	SAME122869	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00132	female	SAME123061	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00137	female	SAME123066	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00144	female	SAME124392	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG00149	male	SAME124387	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00151	male	SAME124592	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00156	male	SAME123276	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00182	male	SAME123643	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00187	male	SAME123646	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00233	female	SAME124127	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00238	female	SAME124131	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00240	female	SAME123221	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00245	female	SAME123218	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00252	male	SAME123052	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00257	female	SAME123047	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00264	male	SAME123578	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00269	female	SAME123575	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00271	male	SAME123417	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00276	female	SAME123424	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00288	female	SAME1839246	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00290	male	SAME1839057	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00308	male	SAME124161	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,Geuvadis
+HG00310	male	SAME124338	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00097	female	SAME123267	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00098	male	SAME123272	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG00100	female	SAME125154	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00101	male	SAME125153	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00105	male	SAME123949	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00112	male	SAME125341	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00117	male	SAME125346	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00124	female	SAME122870	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00129	male	SAME122867	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00131	male	SAME123064	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00136	male	SAME123065	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00143	male	SAME124393	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00148	male	SAME124388	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00150	female	SAME124591	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00155	male	SAME124588	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00174	female	SAME124958	FIN	Finnish,Finnish	EUR	European Ancestry,West Eurasia (SGDP)	FIN,FinnishSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00179	female	SAME124965	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00181	male	SAME123644	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00186	male	SAME123647	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00232	female	SAME124128	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00237	female	SAME124124	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00244	male	SAME123217	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00319	female	SAME124334	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00321	male	SAME123796	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00326	female	SAME123792	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00338	male	SAME123990	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00345	male	SAME124919	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00357	female	SAME125124	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00364	female	SAME124543	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00369	male	SAME124534	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00371	male	SAME124747	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00376	female	SAME124751	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00383	female	SAME123032	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00249	female	SAME123227	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00251	male	SAME123053	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00256	male	SAME123048	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00263	female	SAME123581	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00268	female	SAME123574	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00270	female	SAME123418	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00275	female	SAME123421	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00282	female	SAME122833	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG01503	male	SAME124944	IBS	Iberian,Spanish	EUR	European Ancestry,West Eurasia (SGDP)	IBS,SpanishSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01508	male	SAME124939	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01589	male	SAME1839859	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01604	female	SAME123460	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01609	male	SAME123461	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01611	male	SAME123624	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01616	female	SAME123629	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01623	female	SAME123845	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01628	female	SAME123837	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01630	male	SAME124034	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01673	female	SAME123289	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01678	male	SAME123292	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01680	male	SAME124656	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01510	female	SAME124771	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01515	male	SAME124774	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01522	female	SAME125321	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01527	male	SAME125326	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01502	male	SAME124943	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01507	female	SAME124948	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01748	male	SAME125191	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01755	female	SAME124986	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01762	female	SAME124811	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01767	male	SAME1839671	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01774	male	SAME124634	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01779	female	SAME124629	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01781	male	SAME124921	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01786	female	SAME1839312	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01514	female	SAME124775	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01519	female	SAME124765	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01521	male	SAME125324	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01685	female	SAME124659	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01526	male	SAME125325	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01697	female	SAME1839223	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01538	female	SAME125141	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01700	male	SAME123261	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01705	male	SAME123266	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01583	male	SAME1839895	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01709	male	SAME123229	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01711	female	SAME123083	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01747	male	SAME125181	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01761	male	SAME124810	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01766	female	SAME1839673	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01773	female	SAME124635	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01603	male	SAME123453	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01608	male	SAME123462	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01610	male	SAME123623	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01615	male	SAME123628	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01622	female	SAME123846	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01627	male	SAME123841	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01778	male	SAME124630	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01780	male	SAME124428	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01785	male	SAME1839313	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01684	female	SAME124660	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01696	male	SAME124715	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01704	female	SAME123265	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01672	male	SAME123288	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01677	female	SAME123285	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02222	female	SAME123717	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02234	male	SAME1839367	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02239	female	SAME1839420	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02215	female	SAME123904	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,Geuvadis
+HG02602	male	SAME1840290	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02493	male	SAME1839704	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02219	male	SAME1839813	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02221	male	SAME123716	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02789	male	SAME1840280	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02791	male	SAME1840342	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02233	male	SAME1839370	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02238	male	SAME1839423	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02240	female	SAME1839481	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03016	female	SAME1839952	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02734	female	SAME1839869	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02733	male	SAME1839874	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02784	female	SAME1839157	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02690	male	SAME1839088	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02727	male	SAME1839727	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02783	male	SAME1839162	PJL	Punjabi,Punjabi	SAS	South Asia (SGDP),South Asian Ancestry	PunjabiSGDP,PJL	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02601	female	SAME1840293	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02657	male	SAME1839600	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02790	female	SAME1840345	PJL	Punjabi,Punjabi	SAS	South Asia (SGDP),South Asian Ancestry	PunjabiSGDP,PJL	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02688	female	SAME1839358	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02652	female	SAME1839541	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02492	male	SAME1839610	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release
+HG02656	male	SAME1839607	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02682	female	SAME1839300	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02687	male	SAME1839270	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02649	female	SAME1839852	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02651	male	SAME1839544	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02694	female	SAME1839065	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02699	male	SAME1839129	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02726	female	SAME1839732	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03237	male	SAME1839282	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03624	male	SAME1839709	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03629	male	SAME1839738	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03631	female	SAME1839855	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03636	male	SAME1839586	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03706	female	SAME1839758	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03491	female	SAME1839264	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03229	female	SAME1839234	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03015	male	SAME1839940	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03022	female	SAME1839795	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03667	male	SAME1839331	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03488	female	SAME1839486	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03490	male	SAME1839259	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03705	male	SAME1840051	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03762	female	SAME1839119	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03767	male	SAME1839141	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20504	female	SAME124360	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20509	male	SAME124354	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20511	male	SAME124563	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20516	male	SAME124556	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20528	male	SAME124012	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20530	female	SAME124169	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20535	female	SAME124166	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20542	female	SAME125150	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20585	female	SAME122861	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20756	female	SAME124175	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20763	male	SAME124365	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20768	female	SAME124372	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20770	male	SAME124576	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20775	female	SAME124573	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA20787	male	SAME123609	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20799	female	SAME123822	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20802	female	SAME125366	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20807	female	SAME125363	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20814	male	SAME125188	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20819	female	SAME125183	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20821	female	SAME123075	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20826	female	SAME123070	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20503	female	SAME124357	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20508	female	SAME124355	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20510	male	SAME124562	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20515	male	SAME124559	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20522	female	SAME124017	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA20527	male	SAME124013	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20534	male	SAME124165	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20539	male	SAME124164	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20541	female	SAME125147	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20589	female	SAME122865	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20755	male	SAME124174	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA20762	male	SAME124744	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20767	male	SAME124369	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20774	female	SAME124572	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20786	female	SAME123610	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20798	male	SAME123821	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20801	male	SAME125365	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20806	male	SAME125362	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20813	female	SAME125189	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20818	female	SAME125184	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA20832	female	SAME122894	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00104	female	SAME123950	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00109	male	SAME125160	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00111	female	SAME125340	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00116	male	SAME125345	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00123	female	SAME122875	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00128	female	SAME122868	GBR	British,English	EUR	European Ancestry,West Eurasia (SGDP)	GBR,EnglishSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00130	female	SAME123063	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00135	female	SAME123068	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00142	male	SAME124818	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00147	female	SAME124389	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG00154	female	SAME124587	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00159	male	SAME124586	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00173	female	SAME124960	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00178	female	SAME124964	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00152	male	SAME124593	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00180	female	SAME123645	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00157	male	SAME124590	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00185	male	SAME123648	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00171	female	SAME124961	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00231	female	SAME124126	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00176	female	SAME124956	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00236	female	SAME123273	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00183	male	SAME123642	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00243	male	SAME123224	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00188	male	SAME123641	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00318	female	SAME124333	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00190	male	SAME123856	FIN	Finnish,Finnish	EUR	European Ancestry,West Eurasia (SGDP)	FIN,FinnishSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00320	female	SAME123797	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00234	male	SAME124123	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00325	male	SAME123793	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00239	female	SAME124130	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00332	female	SAME123987	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00246	male	SAME123219	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00337	female	SAME123984	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00253	female	SAME123051	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00344	female	SAME125255	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00258	female	SAME123057	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00349	female	SAME124925	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00260	male	SAME123582	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00351	male	SAME125122	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00265	male	SAME123579	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00356	female	SAME125123	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00272	female	SAME123420	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00368	female	SAME124535	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00277	male	SAME123423	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00375	male	SAME124750	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00284	male	SAME122835	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00382	male	SAME123033	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00099	female	SAME123271	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00102	female	SAME123945	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00107	male	SAME123947	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00114	male	SAME125343	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00119	male	SAME125348	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00248	female	SAME123226	GBR	British	EUR	European Ancestry	GBR	1000 Genomes phase 3 release
+HG00121	female	SAME122873	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00250	female	SAME123054	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00126	male	SAME122872	GBR	British,English	EUR	European Ancestry,West Eurasia (SGDP)	GBR,EnglishSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00255	female	SAME123049	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00133	female	SAME123062	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00262	female	SAME123580	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00138	male	SAME123059	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00267	male	SAME123577	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00140	male	SAME124396	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00274	female	SAME123422	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00145	male	SAME124391	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00281	female	SAME122832	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00304	female	SAME1840118	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00306	female	SAME124159	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00309	female	SAME124160	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00313	female	SAME124337	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00311	male	SAME124339	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00323	female	SAME123795	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00328	female	SAME123799	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00330	female	SAME123985	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00335	male	SAME123982	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00342	male	SAME124924	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00359	female	SAME125127	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00361	female	SAME124538	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00096	male	SAME123268	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00366	male	SAME124541	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00373	female	SAME124749	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00378	female	SAME124745	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00380	female	SAME123031	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG01602	female	SAME123454	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01607	female	SAME123457	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01614	female	SAME123627	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01619	male	SAME123632	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01621	male	SAME123843	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01626	female	SAME123842	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01504	female	SAME124945	IBS	Iberian,Spanish	EUR	European Ancestry,West Eurasia (SGDP)	IBS,SpanishSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01509	male	SAME124940	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01501	female	SAME124942	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01511	female	SAME124770	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01506	male	SAME124947	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01516	female	SAME124773	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01513	female	SAME124768	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01523	male	SAME125322	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01518	male	SAME124766	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01528	female	SAME125329	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01520	female	SAME125323	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01525	female	SAME125328	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01532	male	SAME125138	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01605	female	SAME123459	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01537	female	SAME125134	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01612	female	SAME123625	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01530	male	SAME125137	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01617	male	SAME123630	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01624	male	SAME123840	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01629	male	SAME123836	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01631	male	SAME124035	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01667	male	SAME123116	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01674	male	SAME123286	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01633	male	SAME124033	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01669	male	SAME123110	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01671	male	SAME123291	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01679	female	SAME123293	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01676	female	SAME123284	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01681	female	SAME124655	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01683	male	SAME124653	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01686	male	SAME124658	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01695	female	SAME124845	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01698	male	SAME1839214	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01703	male	SAME123260	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01701	male	SAME123262	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01708	male	SAME123253	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01768	female	SAME1839665	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01710	female	SAME123084	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01770	female	SAME124638	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01746	female	SAME125180	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01775	male	SAME124633	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01765	male	SAME1839681	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01782	female	SAME124426	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01772	female	SAME124636	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01706	female	SAME123263	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01756	male	SAME124988	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01777	male	SAME124631	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01763	female	SAME124812	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01784	female	SAME124431	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01789	male	SAME124433	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,Geuvadis
+HG01791	male	SAME124221	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,Geuvadis
+HG00153	female	SAME124594	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG00158	female	SAME124585	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00160	male	SAME124780	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00177	female	SAME124957	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00189	male	SAME123640	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00235	female	SAME124122	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00242	male	SAME123223	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00247	female	SAME123220	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00254	female	SAME123050	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG00259	female	SAME123056	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00261	female	SAME123583	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00266	female	SAME123576	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00273	male	SAME123419	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00278	male	SAME123425	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00280	male	SAME122831	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00285	female	SAME122836	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00103	male	SAME125151	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00108	male	SAME125161	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00110	female	SAME125339	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00115	male	SAME125344	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00122	female	SAME122876	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00127	female	SAME122871	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00134	female	SAME123067	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00139	male	SAME123060	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00141	male	SAME124395	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00146	female	SAME124390	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00312	male	SAME124336	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00324	female	SAME123794	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00329	male	SAME123798	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00331	female	SAME123986	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00336	male	SAME123983	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00343	female	SAME124923	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00350	female	SAME125121	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00355	female	SAME125125	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00362	female	SAME124537	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG02220	female	SAME123715	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00367	female	SAME124540	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG02225	female	SAME1839576	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02232	female	SAME1839374	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02237	female	SAME123519	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00379	female	SAME124746	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG00381	female	SAME123030	FIN	Finnish	EUR	European Ancestry	FIN	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG02605	female	SAME1840277	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02223	female	SAME1839584	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02230	female	SAME1839383	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02235	female	SAME123521	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02648	male	SAME1839751	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02689	male	SAME1839355	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02655	female	SAME1839526	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02691	female	SAME1839084	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02696	male	SAME1839149	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02728	female	SAME1839722	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02597	male	SAME1839199	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02603	male	SAME1840287	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02600	male	SAME1840302	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02662	female	SAME1839662	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02681	male	SAME1839304	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02686	male	SAME1839277	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02491	female	SAME1839617	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02658	female	SAME1839597	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02660	male	SAME1839672	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02684	male	SAME1839292	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02494	female	SAME1839698	PJL	Punjabi,Punjabi	SAS	South Asia (SGDP),South Asian Ancestry	PunjabiSGDP,PJL	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02785	female	SAME1840298	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02792	male	SAME1840416	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02735	male	SAME1839866	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03019	female	SAME1840060	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03021	male	SAME1839789	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02778	female	SAME1839100	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02780	male	SAME1839169	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01334	male	SAME123533	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG02737	female	SAME1839857	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02775	female	SAME1839022	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01529	male	SAME125330	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02787	female	SAME1840288	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01531	female	SAME125136	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01536	male	SAME125135	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01586	male	SAME1839879	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01593	female	SAME1839634	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02698	male	SAME1839137	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01601	male	SAME123455	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01606	male	SAME123458	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02725	female	SAME1839737	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01613	female	SAME123626	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03228	male	SAME1839232	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03235	female	SAME1839360	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01500	male	SAME124941	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01618	female	SAME123631	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01620	female	SAME123844	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01625	male	SAME123839	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01632	female	SAME124032	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01668	female	SAME123111	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01670	female	SAME123290	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01675	male	SAME123287	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01505	male	SAME124946	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release
+HG03238	female	SAME1839289	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01512	male	SAME124769	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03492	male	SAME1839196	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01517	female	SAME124772	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01524	male	SAME125327	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01771	male	SAME124637	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01776	female	SAME124632	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01783	male	SAME124427	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03649	male	SAME1839396	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01790	female	SAME124222	GBR	British	EUR	European Ancestry	GBR	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,Geuvadis
+HG03663	male	SAME1839317	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03668	female	SAME1839338	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01682	male	SAME124654	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01687	female	SAME124657	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01694	male	SAME124844	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01699	male	SAME1839210	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01702	female	SAME123259	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03709	female	SAME1839780	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03625	female	SAME1839719	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03702	male	SAME1840029	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01707	female	SAME123264	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01757	female	SAME124987	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03653	female	SAME1839508	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03660	male	SAME1839218	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03634	female	SAME1839575	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02224	male	SAME1839579	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02229	female	SAME1839649	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02231	male	SAME1839376	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02236	male	SAME123520	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02490	male	SAME1839625	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02604	female	SAME1840282	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02786	male	SAME1840292	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02793	female	SAME1840415	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03018	male	SAME1840053	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02654	male	SAME1839530	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02659	female	SAME1839590	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02661	female	SAME1839667	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02685	female	SAME1839286	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02697	female	SAME1839142	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02700	female	SAME1840159	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02724	male	SAME1839740	PJL	Punjabi,Punjabi	SAS	South Asia (SGDP),South Asian Ancestry	PunjabiSGDP,PJL	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02729	male	SAME1839715	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02731	female	SAME1839886	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02736	male	SAME1839860	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02774	male	SAME1839028	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03239	female	SAME1839295	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03234	male	SAME1839357	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20517	female	SAME124557	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20524	male	SAME124016	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20529	female	SAME124011	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20531	female	SAME124170	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG03619	female	SAME1840064	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20536	male	SAME124167	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20543	male	SAME125149	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20581	male	SAME122859	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG03633	male	SAME1839571	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20586	male	SAME122864	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20752	male	SAME124177	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20757	female	SAME124176	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20764	female	SAME124368	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20769	female	SAME124371	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20771	female	SAME124577	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG03640	female	SAME1839621	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03652	male	SAME1839505	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20783	male	SAME123607	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20790	female	SAME123815	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG03703	female	SAME1840032	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20795	female	SAME123818	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG03708	male	SAME1839773	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20803	male	SAME125367	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20502	female	SAME124358	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20808	female	SAME122813	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20507	female	SAME124361	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20810	male	SAME125192	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20514	female	SAME124558	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20815	male	SAME125187	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20519	male	SAME123179	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20822	female	SAME123073	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20521	male	SAME124018	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20827	male	SAME123071	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20526	female	SAME124014	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA20533	female	SAME124172	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA20538	male	SAME124163	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20540	female	SAME125148	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20588	male	SAME122866	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20754	male	SAME124173	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20759	male	SAME125094	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+HG03765	female	SAME1839131	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20505	female	SAME124359	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20512	male	SAME124560	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20761	female	SAME124363	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20766	female	SAME124370	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20773	female	SAME124575	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20778	male	SAME124571	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20785	male	SAME123611	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20792	male	SAME123817	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20797	female	SAME123820	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20800	female	SAME125364	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20805	male	SAME125361	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20812	male	SAME125190	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20829	male	SAME123077	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA20831	male	SAME122893	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+NA20513	male	SAME124561	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20518	male	SAME123178	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20520	male	SAME124019	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20525	male	SAME124015	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20532	male	SAME124171	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20537	male	SAME124168	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20544	male	SAME125146	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20582	female	SAME123474	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20587	female	SAME123481	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA20753	female	SAME124178	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA20758	male	SAME125117	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20760	female	SAME124364	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20765	male	SAME124367	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20772	female	SAME124574	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20796	male	SAME123819	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20804	female	SAME125224	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20809	male	SAME125359	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20811	male	SAME123069	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20816	male	SAME125186	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20828	female	SAME123076	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA20506	female	SAME124362	TSI	Toscani	EUR	European Ancestry	TSI	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
