@@ -1,0 +1,47 @@
+// Simulations by SLiM - aDNAworkshop2022 - Happy simulations!
+
+// Mutationtype - page 144
+
+
+
+initialize() {
+        setSeed(seed);
+
+//simulate 100  Kb segment
+        defineConstant("L", 100000); 
+
+//set the mutation rate
+        defineConstant("mu", 1e-8);
+
+// nucleotide-based simulation
+        initializeSLiMOptions(nucleotideBased=T);
+
+//generate random order of ACGTs of length "L" defined above 
+        initializeAncestralNucleotides(randomNucleotides(L)); 
+
+//Introduce nucleotide-based neutral mutations -> dominance coeff is 0.5, DFE was set to fixed fittness effect, selection coeff is zero -> neutral
+        initializeMutationTypeNuc("m1", 0.1, "g", -0.03, 0.2);
+        m1.convertToSubstitution = F;
+
+        initializeGenomicElementType("g1", m1, 1.0, mmJukesCantor(mu));
+        initializeGenomicElement(g1, 0, L-1);
+
+        //set the recombination rate
+        initializeRecombinationRate(1e-8);
+}
+
+
+// create a population of 10000 individuals
+1 {sim.addSubpop("p1", 10000);}
+
+
+// Population split
+
+1000 { sim.addSubpopSplit("p2", 2000, p1); }
+
+
+// output:
+
+1000 late() {
+        p2.outputVCFSample(5, replace=T, simplifyNucleotides=T);
+}
