@@ -1,0 +1,119 @@
+// A more complex scenario
+
+// Example paper 1: https://www.nature.com/articles/s41467-018-04191-y 10mb segment
+// Example paper 2: https://genome.cshlp.org/content/24/6/885.long 4 mb segment
+// Multi-population model of ancient Eurasia -> https://stdpopsim.readthedocs.io/en/latest/catalog.html#sec_catalog_HomSap 
+// https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1635482
+
+
+
+// I use mutation rate as 1e-8
+
+// Model-2: Neutral simulation - add mutation to the middle of the sequence
+
+initialize() {
+	setSeed(seed);
+
+//simulate 100 kb segment
+	defineConstant("L", 100000); 
+
+//set the mutation rate
+	defineConstant("mu", 1e-8);
+
+// nucleotide-based simulation
+	initializeSLiMOptions(nucleotideBased=T);
+
+//generate random order of ACGTs of length "L" defined above 
+	initializeAncestralNucleotides(randomNucleotides(L)); 
+
+//Introduce nucleotide-based neutral mutations -> dominance coeff is 0.5, DFE was set to fixed fittness effect, selection coeff is zero -> neutral
+	initializeMutationTypeNuc("m1", 0.5, "f", 0.0);
+	m1.convertToSubstitution = F;
+
+//Non-nucloide based (target) neutral mutation to be introduced at certain time point.
+ 	initializeMutationType("m2", 0.5, "f", 0.0);
+ 	m2.convertToSubstitution = F;
+
+//simulate genomic segment of length of L
+
+	initializeGenomicElementType("g1", m1, 1.0, mmJukesCantor(mu));
+	initializeGenomicElement(g1, 0, L-1);
+
+
+//set the recombination rate
+
+	initializeRecombinationRate(1e-8);
+}
+
+// initial population size 29,100 individuals ancestral population (assume Mbuty and WHG) -> simulate for 58,000 generation -> 1,450,000 years 
+
+	1 { 
+	defineConstant("simID", getSeed());
+	sim.addSubpop("p1", 29100);}
+
+// Time of WHG and Mbuti split at 95,800 years ago (3,832 generations) "p2 is Mbuty". Mbuty pop. size is 17,300
+
+	54164 { sim.addSubpopSplit("p2", 17300, p1); }
+
+// Time of WHG and Basal Eurasian split at 79,800 years ago (3,192 generations), "p3 is Basal Eurasian". Basal Eurasian pop. size is 1,920
+
+	54808 { sim.addSubpopSplit("p3", 1920, p1); }
+
+// Time of WHG and Ust’Ishim split at 51,500 years ago (2,060 generations), "p4 is Ust Ishim". Ust Ishim pop size is 1,920
+
+	55940 { sim.addSubpopSplit("p4", 1920, p1); }
+
+// Time of WHG and Han Chinese split at 50,400 years ago (2,016 generations), "p5 is Han Chinese". Han. Chinese pop size is 6,300
+
+	55984 { sim.addSubpopSplit("p5", 6300, p1); }
+
+// Time of WHG and Mal’ta split at 44,900 years ago (1,796 generation), "p6 is Mal'ta". Mal'ta pop size is 1,920
+
+	56204 { sim.addSubpopSplit("p6", 1920, p1); }
+
+// Time of WHG and AnatoliaNeolithic split at 15,000 years ago (600 generations), "p7 is Anatolia Neolithic". Anatolia Neolithic pop size is 2000
+
+	57400 { sim.addSubpopSplit("p7", 2000, p1); }
+
+
+// Add the target neutral mutation (m2) at generation 57500 to 100 individuals
+// Change 57500 to any time you wish
+57500 late() {
+	// Save the current state of simulation into a tmp file.
+	sim.outputFull("/tmp/slim_" + simID + ".txt");
+
+	// Select 100 random haploid indvidual from p7
+	targetinds = sample(p7.genomes, 100);
+
+	// Introduce m2 mutation into the center of the sequence of these 100 individuals
+	targetinds.addNewDrawnMutation(m2, asInteger(L/2));
+}
+
+
+// Check if the target mutation (m2) is lost
+// Change 5750 to any time you wish
+57500:58000 late() {
+	if (sim.countOfMutationsOfType(m2) == 0) {
+ 		print(simID + ": LOST-RESTARTING ");
+
+		 // if the mutation is lost, restart simulation from the tmp file
+ 		sim.readFromPopulationFile("/tmp/slim_" + simID + ".txt");
+ 		setSeed(getSeed() + 1);
+ 		target = sample(p7.genomes, 100);
+ 		target.addNewDrawnMutation(m2, asInteger(L/2));
+}	}
+
+
+
+57600 late() {
+	p7.outputVCFSample(1000, replace=T, simplifyNucleotides=T);
+}
+
+57800 late() {
+	p7.outputVCFSample(1000, replace=T, simplifyNucleotides=T);
+}
+
+58000 late() {
+	p7.outputVCFSample(1000, replace=T, simplifyNucleotides=T);
+	deleteFile("/tmp/slim_" + simID + ".txt");
+}
